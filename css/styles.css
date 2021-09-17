@@ -1,0 +1,54 @@
+.img{
+    background-image: url("cloth1.jpg");
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ height: 500px;
+ width: 100%;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    padding-left: 1vw;
+    display: none;
+}
+
+.home{
+    padding-right: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.sec {
+    display: block;
+}
+
+.about{
+    padding-right: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.contact{
+    color: white;
+    font-size: 20px;
+}
+.fa-bars{
+    color: blue;
+    font-size: 30px;
+    padding-left: 1vw;
+    cursor: pointer;
+}
+.card-group{
+    margin-top: 20px;
+}
+.text{
+    color: blue;
+    font-size: 60px;
+}
