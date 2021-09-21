@@ -1,3 +1,5 @@
+
+
 .img{
     background-image: url("cloth1.jpg");
  background-size: cover;
@@ -51,7 +53,7 @@ a{
 }
 .text{
     color: whitesmoke;
-    font-size: 80px;
+    font-size: 60px;
     text-align: center;
     padding-top: 10vw;
 }
