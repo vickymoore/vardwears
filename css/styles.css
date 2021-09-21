@@ -27,6 +27,7 @@ a{
 
 .sec {
     display: block;
+    background-color: rgb(197, 189, 185);
 }
 
 .about{
@@ -49,6 +50,8 @@ a{
     margin-top: 20px;
 }
 .text{
-    color: blue;
-    font-size: 60px;
+    color: whitesmoke;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 10vw;
 }
